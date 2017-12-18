@@ -1,9 +1,5 @@
-FROM microsoft/dotnet:latest
+FROM microsoft/aspnetcore:2.0
+WORKDIR /app
 COPY . /app
-WORKDIR  /app
- 
-RUN dotnet restore
-RUN dotnet build
- 
-EXPOSE 5000/tcp
-ENTRYPOINT dotnet run
+EXPOSE 80
+ENTRYPOINT ["dotnet", "MyAwesomeApp.dll"]
