@@ -9,7 +9,7 @@ namespace MyAwesomeApp.Services
             {
                 "Hello",
                 "World",
-                //"!"
+                "!"
             };
 	}
 }
