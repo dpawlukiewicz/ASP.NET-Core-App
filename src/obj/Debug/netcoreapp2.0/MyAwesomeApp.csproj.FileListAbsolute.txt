@@ -1,0 +1,10 @@
+/Users/Darek/Repositories/ASP.NET-Core-App/src/bin/Debug/netcoreapp2.0/MyAwesomeApp.deps.json
+/Users/Darek/Repositories/ASP.NET-Core-App/src/bin/Debug/netcoreapp2.0/MyAwesomeApp.runtimeconfig.json
+/Users/Darek/Repositories/ASP.NET-Core-App/src/bin/Debug/netcoreapp2.0/MyAwesomeApp.runtimeconfig.dev.json
+/Users/Darek/Repositories/ASP.NET-Core-App/src/bin/Debug/netcoreapp2.0/MyAwesomeApp.dll
+/Users/Darek/Repositories/ASP.NET-Core-App/src/bin/Debug/netcoreapp2.0/MyAwesomeApp.pdb
+/Users/Darek/Repositories/ASP.NET-Core-App/src/obj/Debug/netcoreapp2.0/MyAwesomeApp.csproj.CoreCompileInputs.cache
+/Users/Darek/Repositories/ASP.NET-Core-App/src/obj/Debug/netcoreapp2.0/MyAwesomeApp.AssemblyInfoInputs.cache
+/Users/Darek/Repositories/ASP.NET-Core-App/src/obj/Debug/netcoreapp2.0/MyAwesomeApp.AssemblyInfo.cs
+/Users/Darek/Repositories/ASP.NET-Core-App/src/obj/Debug/netcoreapp2.0/MyAwesomeApp.dll
+/Users/Darek/Repositories/ASP.NET-Core-App/src/obj/Debug/netcoreapp2.0/MyAwesomeApp.pdb
