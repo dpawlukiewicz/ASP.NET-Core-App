@@ -13,7 +13,7 @@ namespace MyAwesomeApp.Tests
             var valuesService = new ValuesService();
             var values = valuesService.GetValues().ToArray();
 
-            Assert.Equal(values.Length, 3);
+            Assert.Equal(3, values.Length);
         }
     }
 }
